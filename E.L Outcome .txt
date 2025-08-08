@@ -1,0 +1,4 @@
+Best Parameters: {'max_depth': None, 'n_estimators': 100}
+Accuracy: 1.0
+
+[Program finished]
